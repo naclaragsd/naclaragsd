@@ -20,6 +20,5 @@
   </picture>
 
   <!-- Imagem do GitHub -->
-  <img src="https://github.com/usuário/repositorio/raw/main/images/![download (9) (2)](https://github.com/user-attachments/assets/f2bbbfef-fb09-4e53-b18f-57bf16fa5706)
-" width="300px" alt="Imagem salva no GitHub" />
+  <img src="https://github.com/usuário/repositorio/raw/main/images/https://github.com/naclaragsd/naclaragsd/edit/main/README.md" width="300px" alt="Imagem salva no GitHub" />
 </div>

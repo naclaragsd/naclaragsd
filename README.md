@@ -16,7 +16,8 @@
       srcset="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true" />
+    <img src="![image](https://github.com/user-attachments/assets/30e16446-d233-4079-a773-06530c8a5a23)
+" />
   </picture>
 
   <!-- Imagem à direita com tamanho maior -->

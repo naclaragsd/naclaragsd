@@ -16,11 +16,9 @@
       srcset="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="![image](https://github.com/user-attachments/assets/30e16446-d233-4079-a773-06530c8a5a23)
-" />
+    <img src="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true" />
   </picture>
 
-  <!-- Imagem à direita com tamanho maior -->
-  <img src="https://i.imgur.com/2uyfjWQ.gif" width="300px" alt="Glitch tech gif" />
+  <!-- Imagem do GitHub -->
+  <img src="https://github.com/usuário/repositorio/raw/main/images/minha-imagem.jpg" width="300px" alt="Imagem salva no GitHub" />
 </div>
-

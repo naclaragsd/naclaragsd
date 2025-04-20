@@ -6,12 +6,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://i.imgur.com/k8YvLzV.gif" width="120px" alt="Dark aesthetic gif">
-  <img src="https://i.imgur.com/2uyfjWQ.gif" width="120px" alt="Glitch tech gif">
-  <img src="https://i.imgur.com/oSCudmN.gif" width="120px" alt="Dark cyber gif">
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <br>
 
 ```bash

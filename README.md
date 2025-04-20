@@ -5,9 +5,11 @@
   <i>Estudante de Engenharia de Software</i>
 </p>
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <!-- Imagem à esquerda -->
   <img src="https://i.imgur.com/2uyfjWQ.gif" width="150px" alt="Glitch tech gif" />
 
+  <!-- Plataforma de stats -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true"
@@ -19,6 +21,4 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true" />
   </picture>
-
-  <img src="https://i.imgur.com/oSCudmN.gif" width="150px" alt="Dark cyber gif" />
 </div>

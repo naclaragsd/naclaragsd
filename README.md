@@ -19,6 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true" />
   </picture>
 
-  <!-- Imagem do GitHub -->
-  <img src="https://github.com/usuário/repositorio/raw/main/images/download (9).jpeg/https://github.com/naclaragsd/naclaragsd/edit/main/README.md" width="300px" alt="Imagem salva no GitHub" />
+  <!-- Imagem salva no GitHub -->
+  <img src="https://github.com/usuário/repositorio/raw/main/images/download%20(9).jpeg" width="300px" alt="Imagem salva no GitHub" />
 </div>

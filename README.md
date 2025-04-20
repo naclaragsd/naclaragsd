@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF2CC3&center=true&width=435&lines=Ana+Clara+🖤" alt="Typing SVG" />
-</p>
-
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #ff2cc3;">
+  Ana Clara 🖤
+</h1>
 <p align="center">
   <i>Estudante de Engenharia de Software</i>
 </p>

@@ -5,7 +5,7 @@
   <i>Estudante de Engenharia de Software</i>
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: -20px;">
   <!-- Plataforma de stats -->
   <picture>
     <source
@@ -20,5 +20,5 @@
   </picture>
 
   <!-- Imagem salva no GitHub -->
-  <img src="https://github.com/naclaragsd/naclaragsd/blob/main/download%20(9).jpeg?raw=true" width="300px" alt="Ana Clara" style="border-radius: 12px;" />
+  <img src="https://github.com/naclaragsd/naclaragsd/blob/main/download%20(9).jpeg?raw=true" width="230px" alt="Ana Clara" style="border-radius: 12px;" />
 </div>

@@ -1,24 +1,106 @@
-<h1 align="center" style="font-family: 'Fira Code', monospace; color: #ff2cc3;">
-  Ana Clara 🖤
-</h1>
 <p align="center">
-  <i>Estudante de Engenharia de Software</i>
+  <img src="banner.jpeg" width="100%" />
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=naclaragsd&show_icons=true&title_color=ff2cc3&icon_color=ff2cc3&text_color=ffffff&bg_color=000000&hide_border=true" />
-  </picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B08968&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Building+systems+through+code;Seek+knowledge+to+transcend" />
+</p>
 
-  <!-- Imagem -->
-  <img src="https://github.com/naclaragsd/naclaragsd/blob/main/download%20(9).jpeg?raw=true" width="230px" alt="Ana Clara" style="border-radius: 12px;" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:3d0f2d&height=2"/>
+
+<table align="center">
+<tr>
+
+<td>
+
+```yaml
+name: Ana Clara
+located_in: Brazil
+
+current_focus:
+  - Software Engineering
+
+learning:
+  - C
+  - JavaScript
+
+interests:
+  - Technology
+  - Cybersecurity
+  - System Design
+  - Artificial Intelligence
+```
+
+</td>
+
+<td>
+  <img src="gatinho3.gif" width="280px"/>
+</td>
+
+
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:3d0f2d&height=2"/>
+
+<table align="center">
+<tr>
+
+<td>
+  <img src="gatinho.gif" width="180px"/>
+</td>
+
+<td>
+
+<h2 align="center">✦ Technologies ✦</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:3d0f2d&height=2"/>
+
+<table align="center">
+<tr>
+  <td>
+<h2 align="center">✦ Statistics ✦</h2>
+
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=naclaragsd&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+<td>
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naclaragsd&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+</td>
+
+</tr>
+</table>
+
+
+<h2 align="center">✦ Contributions ✦</h2>
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/B76E79/naclaragsd" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="hellokitty.gif" width="180px"/>
+</p>
+
+<p align="center">
+  <i>"Systems. Logic. Creation."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:B76E79&height=140&section=footer"/>
+</p>

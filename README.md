@@ -27,8 +27,9 @@ learning:
 interests:
   - Technology
   - Cybersecurity
-  - System Design
-  - Artificial Intelligence
+  - Software development
+  - Logic and data structures
+  - AI and machine learning concepts
 ```
 
 </td>
@@ -55,7 +56,7 @@ interests:
 <h2 align="center">✦ Technologies ✦</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode,ae" />
 </p>
 
 </td>

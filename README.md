@@ -4,10 +4,12 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1200&color=C4547A&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;JavaScript+%E2%80%A2+Python+%E2%80%A2+C;Building+Lenadi;Open+to+Internship+Opportunities"
+    src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1200&color=C4547A&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;JavaScript+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C;Building+Lenadi;Open+to+Internship+Opportunities"
     alt="Typing animation introducing Ana Clara"
   />
 </p>
+
+<h3 align="center">Software Engineering Student · Full-Stack Development, Data &amp; AI</h3>
 
 <p align="center">
   <a href="https://naclaragsd.github.io/Portfolio_website/">
@@ -21,6 +23,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Internship-Software%20Dev%20%C2%B7%20Data%20%C2%B7%20AI-1a0510?style=flat-square&labelColor=1a0510&color=ff6fae" alt="Open to internship opportunities" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naclaragsd&color=C4547A&style=for-the-badge&label=Profile+Views" alt="Profile views counter" />
+  <img src="https://img.shields.io/github/followers/naclaragsd?style=for-the-badge&color=8B1A4A&label=Followers&logo=github&logoColor=white" alt="GitHub followers" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
 ## ✦ About Me
@@ -29,22 +40,9 @@
 <tr>
 <td width="62%" valign="middle">
 
-<pre>
-<code>name: Ana Clara
-location: Paraná, Brazil
-education: Software Engineering at UniCesumar
-current_goal: First internship opportunity
+I build things end-to-end: from requirements and business rules to a working, documented application, not just code that runs, but software that makes sense. What pulls me into tech is that exact moment a spec becomes something real and usable.
 
-areas_of_interest:
-  - Software Development
-  - Data and Artificial Intelligence
-  - Software Engineering
-  - Cybersecurity
-
-currently_building:
-  - Lenadi
-  - Academic research involving AI and RAG</code>
-</pre>
+I'm actively looking for my **first internship in Software Development, Data or AI** a place to learn fast and contribute from week one.
 
 </td>
 
@@ -56,11 +54,53 @@ currently_building:
 </tr>
 </table>
 
-I am a Software Engineering student interested in transforming ideas into organized and functional applications.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
-My projects combine programming, interface development and Software Engineering practices such as requirements analysis, business rules, use cases, documentation, testing and version control.
+## ✦ Hard Skills
 
-I am currently looking for my first internship opportunity in **Software Development, Data or Artificial Intelligence**, where I can learn from an experienced team, contribute to real projects and continue developing my technical skills.
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**☆ Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-C4547A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-8B1A4A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-9B2355?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-4A0D2E?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+**☆ Web &amp; Front-end**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-C4547A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-8B1A4A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-9B2355?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**☆ Tools &amp; Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-4A0D2E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-C4547A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-8B1A4A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-9B2355?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+**☆ Data**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4A0D2E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-C4547A?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
@@ -73,20 +113,13 @@ I am currently looking for my first internship opportunity in **Software Develop
 
 ### 📚 Lenadi
 
-Study management platform designed to help students organize subjects, tasks and academic progress.
+`JavaScript` `HTML` `CSS` `Local Storage`
 
-**Main concepts:**
+**★ The problem:** students needed a lightweight way to organize subjects, tasks and academic progress, no bloated tool required.
 
-* CRUD operations
-* DOM manipulation
-* Local Storage
-* Task filtering
-* Progress calculation
-* Requirements and business rules
-* Use cases and technical documentation
-* Incremental development
+**★ What I learned:** how to take a business rule from paper to a full CRUD flow, and structure task filtering + automatic progress calculation with no backend.
 
-**Status:** Version 1 in development
+**Status:** Version 2 in progress
 
 <p>
   <a href="https://github.com/naclaragsd/lenadi">
@@ -100,16 +133,11 @@ Study management platform designed to help students organize subjects, tasks and
 
 ### 🌐 Portfolio Website
 
-Personal portfolio created to present my projects, technical skills, certificates and academic journey.
+`HTML` `CSS` `JavaScript`
 
-**Main concepts:**
+**★ The problem:** I needed a professional front door, a single place to present my projects and skills directly to recruiters.
 
-* Responsive web development
-* HTML, CSS and JavaScript
-* Interface organization
-* Interactive components
-* GitHub Pages deployment
-* Accessibility improvements
+**★ What I learned:** to prioritize accessibility and responsive layout under a real deadline, and ship a live, deployed site, not just a repo.
 
 <p>
   <a href="https://github.com/naclaragsd/Portfolio_website">
@@ -129,16 +157,11 @@ Personal portfolio created to present my projects, technical skills, certificate
 
 ### 🏠 House Service
 
-Responsive landing page for a service that connects clients with domestic professionals.
+`HTML` `CSS` `JavaScript` `Intersection Observer`
 
-**Main concepts:**
+**★ The problem:** simulated a real business brief, a landing page connecting clients with domestic professionals.
 
-* Responsive layout
-* JavaScript interactions
-* Intersection Observer
-* Animated statistics
-* Commercial website structure
-* GitHub Pages deployment
+**★ What I learned:** how to structure a commercial site and use Intersection Observer to drive scroll-based animation.
 
 <p>
   <a href="https://github.com/naclaragsd/houseService">
@@ -155,17 +178,11 @@ Responsive landing page for a service that connects clients with domestic profes
 
 ### 🏛️ Portal do Cidadão
 
-Academic project focused on civic participation and the registration of proposals for cities.
+`JavaScript` `HTML` `CSS`
 
-**Main concepts:**
+**★ The problem:** a civic-tech challenge, letting citizens register and track proposals for their city.
 
-* Form validation
-* JavaScript logic
-* Data manipulation
-* Dynamic filters
-* DOM manipulation
-* Interface organization
-* Problem-solving based on a social context
+**★ What I learned:** to design dynamic filtering and form validation logic with usability for non-technical users in mind.
 
 <p>
   <a href="https://github.com/naclaragsd/portalDoCidadaoAEP_2026">
@@ -179,122 +196,27 @@ Academic project focused on civic participation and the registration of proposal
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
-## ✦ Technologies and Tools
-
-<table align="center">
-<tr>
-
-<td width="28%" align="center" valign="middle">
-
-<img src="gatinho.gif" width="190px" alt="Cat animation" />
-
-</td>
-
-<td width="72%" valign="middle">
-
-<h3>Programming and Web Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,bootstrap&theme=dark" alt="Programming and web development technologies" />
-</p>
-
-<h3>Development Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Software Development</h3>
-
-<p>
-  Programming Logic • Algorithms<br>
-  Data Structures • DOM Manipulation<br>
-  Responsive Web Development<br>
-  Git and GitHub
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Software Engineering</h3>
-
-<p>
-  Requirements Engineering<br>
-  Business Rules • Use Cases<br>
-  Software Documentation<br>
-  System Modeling
-</p>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Data and Artificial Intelligence</h3>
-
-<p>
-  Data Analysis Fundamentals<br>
-  Power BI • Artificial Intelligence<br>
-  RAG Fundamentals<br>
-  Information Classification
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Currently Learning</h3>
-
-<p>
-  Python for Data and Automation<br>
-  AI Classification and Recommendation<br>
-  Embeddings and RAG<br>
-  Software Testing
-</p>
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
-
-## ✦ Research and Current Focus
-
-I participate in an academic research project focused on the intelligent automation of systematic literature reviews using **Python, Artificial Intelligence and RAG**.
-
-My current studies and development goals include:
-
-* Improving Lenadi with real JavaScript functionalities
-* Strengthening my knowledge of Python, C and JavaScript
-* Studying data structures and algorithms
-* Applying AI to classification and information organization
-* Learning more about RAG, embeddings and recommendation systems
-* Creating better project documentation and case studies
-* Improving accessibility, responsiveness and software quality
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
-
 ## ✦ What I Bring
 
-* Curiosity and continuous learning
-* Organization and attention to documentation
-* Experience turning requirements into project structures
-* Interest in understanding both the code and the problem being solved
-* Commitment to improving projects incrementally
-* Familiarity with Git, GitHub and collaborative development practices
-* Motivation to learn from feedback and real development teams
+* **Full-cycle thinking** — I trace every feature back to the requirement and business rule behind it
+* **Documentation as a habit** — use cases and technical docs are part of how I build, not an afterthought
+* **Fast learner, low ego** — genuinely motivated by feedback from people who know more than me
+* **Consistency** — I show up and ship, even on the days a feature doesn't work on the first try
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
+
+## ✦ Learning Radar
+
+What I'm actively studying *right now*:
+
+<p>
+  <img src="https://img.shields.io/badge/Java-1a0510?style=flat-square&labelColor=1a0510&color=ff6fae" alt="Java" />
+  <img src="https://img.shields.io/badge/Python%20for%20Data-1a0510?style=flat-square&labelColor=1a0510&color=ff6fae" alt="Python for Data" />
+  <img src="https://img.shields.io/badge/RAG%20%26%20Embeddings-1a0510?style=flat-square&labelColor=1a0510&color=ff6fae" alt="RAG and Embeddings" />
+  <img src="https://img.shields.io/badge/Software%20Testing-1a0510?style=flat-square&labelColor=1a0510&color=ff6fae" alt="Software Testing" />
+</p>
+
+I'm also part of an academic research project on intelligent automation of systematic literature reviews using Python, AI and RAG.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
@@ -302,35 +224,38 @@ My current studies and development goals include:
 
 <div align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=naclaragsd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0013&title_color=C4547A&icon_color=8B1A4A&text_color=c9b8c4"
-    alt="Ana Clara GitHub statistics"
+    width="500"
+    src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22HTML%22%2C%20%22C%22%2C%20%22CSS%22%2C%20%22JavaScript%22%2C%20%22Java%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Language%20usage%22%2C%20%22data%22%3A%20%5B34.5%2C%2021.1%2C%2020.7%2C%2019.0%2C%204.7%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23C4547A%22%2C%20%22%239B2355%22%2C%20%22%238B1A4A%22%2C%20%22%23FF6FAE%22%2C%20%22%234A0D2E%22%5D%2C%20%22borderRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22indexAxis%22%3A%20%22y%22%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Most%20Used%20Languages%20(by%20bytes%20across%20repos)%22%2C%20%22color%22%3A%20%22%23f2e4ee%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2015%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23b48fab%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%233a1338%22%7D%2C%20%22max%22%3A%2040%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23f2e4ee%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D&backgroundColor=%230d0013&width=500&height=260&format=svg&version=4"
+    alt="Ana Clara most used programming languages"
   />
+</div>
+
+<div align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naclaragsd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0013&title_color=C4547A&text_color=c9b8c4"
-    alt="Most used languages"
+    height="180em"
+    src="https://streak-stats.demolab.com/?user=naclaragsd&theme=highcontrast&background=0D0013&stroke=4A0D2E&ring=C4547A&fire=9B2355&currStreakLabel=C4547A&sideLabels=c9b8c4&currStreakNum=c9b8c4&sideNums=c9b8c4&dates=c9b8c4&hide_border=true"
+    alt="Ana Clara GitHub streak stats"
   />
 </div>
 
 <h3 align="center">Contributions</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/9B2355/naclaragsd" alt="GitHub contribution chart" />
+  <img src="https://raw.githubusercontent.com/naclaragsd/naclaragsd/output/github-contribution-grid-snake.svg" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080008,100:4a0d2e&height=2" />
 
 ## ✦ Contact
 
-I am open to internship opportunities, academic collaborations and conversations about technology, software development, data and Artificial Intelligence.
+If you're hiring for an internship in Software Development, Data or AI or just want to talk shop about any of this, my inbox is open.
 
 <p align="center">
-  <a href="https://naclaragsd.github.io/Portfolio_website/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-C4547A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/anaclaragsd">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8B1A4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:aninhaandrade888@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-4A0D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
 
